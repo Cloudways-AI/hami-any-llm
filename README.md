@@ -1,8 +1,10 @@
 [![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
 
-# Bolt.new Fork by Cole Medin
+# Bolt.new Fork by IPGN Solutions
 
-This fork of bolt.new allows you to choose the LLM that you use for each prompt! Currently you can use OpenAI, Anthropic, Ollama, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See instructions below for running this locally and extending to include more models.
+Bolt.new is restricted to Claude. We have amended the source code to be able any AI model of our choice.
+
+Our fork of bolt.new allows you us to choose the LLM that we want to use for each prompt! This fork let's you use OpenAI, Anthropic, Ollama, or Groq models - and it is can me extended to use any other. Check-out the Vercel AI SDK! See instructions below:
 
 # Bolt.new: AI-Powered Full-Stack Web Development in the Browser
 
